@@ -1,0 +1,22 @@
+package com.example.demo.resource;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.repositorio.ItemRepository;
+import com.example.demo.model.Item;
+
+@RestController
+public class ItemResource {
+
+	@Autowired
+	private ItemRepository itemRepository;
+	
+	@GetMapping("/produtos")
+	public List<Item> listar(){
+		return itemRepository.findAll();
+	}
+}

@@ -1,0 +1,13 @@
+package com.example.demo.resource;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.repositorio.ItemRepository;
+
+@RestController
+public class ItemResource {
+
+	@Autowired
+	private ItemRepository itemRepository;
+}
