@@ -9,7 +9,7 @@ O WorkShop foi muito bom, o conteúdo foi passado de forma produtiva tanto de qu
 
 
 
-#### IDE'S
+#### IDE'S 
 ![Java e Angular](https://image.ibb.co/cN68A7/Java_EE_Angula_CLI.png)
 
 #### Mascara
