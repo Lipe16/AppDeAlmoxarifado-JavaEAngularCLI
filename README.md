@@ -1,4 +1,4 @@
-# Aplicativo de almoxarifado
+﻿# Aplicativo de almoxarifado
 ## Construido com as tecnologias Java(Spring) no back-end e AngularCLI(PrimeNG) no front-end
 ### Com java foi construido uma API e com Angular foi construido a UI
 
@@ -15,6 +15,6 @@ O WorkShop foi muito bom, o conteúdo foi passado de forma produtiva tanto de qu
 #### Mascara
 ![Mascara](https://image.ibb.co/nyGdcn/mascara.png)
 
-####DatePicker
+#### DatePicker
 ![DatePicker](https://image.ibb.co/hR6Tcn/Date_Picker.png)
 
