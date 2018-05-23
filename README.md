@@ -4,7 +4,6 @@
 
 ![App](https://image.ibb.co/nE7UiS/app.png)
 
-
 O WorkShop foi muito bom, o conteúdo foi passado de forma produtiva tanto de quem ministrou a aula como de quem foi aluno(como eu). Já conhecia ambas as tecnologias mais essa oficina me trouxe mais amadurecimento no assunto.
 
 
